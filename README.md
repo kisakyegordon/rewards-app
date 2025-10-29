@@ -5,7 +5,7 @@
 `npm run dev`
 
 ## To Run Tests
-`npm run test`x
+`npm run test`
 
 ## Screenshots
 ![Main Page](./src/assets/main-page.png)

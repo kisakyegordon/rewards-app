@@ -51,4 +51,4 @@ const aggregate = (transactions = []) => {
 };
 
 
-export { fetchTransactions, monthLabel, aggregate };
+export { fetchTransactions, monthLabel, monthKey, calculatePoints, aggregate };
