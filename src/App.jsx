@@ -34,7 +34,7 @@ const App = () => {
     <div className="min-h-screen bg-gray-50 text-gray-900 p-6">
       <div className="max-w-5xl mx-auto bg-white rounded-2xl shadow-sm border border-gray-200 p-6">
         <div className="flex items-center justify-between gap-4 mb-4">
-          <h1 className="text-xl font-bold">Retail Rewards (Tailwind)</h1>
+          <h1 className="text-xl font-bold">Customer Rewards Program</h1>
           <input
             className="w-64 border border-gray-300 rounded-lg px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500"
             placeholder="Search by name or ID…"
